@@ -1,1 +1,1 @@
-# todo-list
+# simple-calculator
